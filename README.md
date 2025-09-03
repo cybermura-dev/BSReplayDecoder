@@ -61,7 +61,7 @@ The **BLReplayDecoder** is built to be easy to integrate into your existing proj
    
     Start by cloning the **BLReplayDecoder** repository:
     ```bash
-    git clone https://github.com/takeshikodev/BLReplayDecoder.git
+    git clone https://github.com/cybermura-dev/BLReplayDecoder.git
     cd BLReplayDecoder
     ```
 
@@ -276,4 +276,4 @@ The decoding process is optimized for both speed and memory efficiency:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2025 Takeshiko 
+Copyright (c) 2025 cybermura
